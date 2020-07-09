@@ -34,9 +34,11 @@
 # Text files
 *.txt
 
-# Codeblocks junk
+# Codeblocks files
 *.cbp
 *.depend
+cli-passgen.layout
 
-# Doxygen junk
+# Doxygen files
 .Doxygen
+html/
